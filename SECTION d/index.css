@@ -1,0 +1,59 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    #bucketList {
+      margin-top: 20px;
+    }
+
+    #bucketList ol {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    #bucketList li {
+      background-color: #f2f2f2;
+      margin: 5px;
+      padding: 10px;
+      border-radius: 5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #btn {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      border: none;
+      margin-left: 15px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #bucketItem{
+        padding: 20px;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    #input-container {
+      margin-bottom: 20px;
+    }
+    button.delete {
+        background-color: red;
+        padding: 12px;
+        border-radius: 5px;
+    }
+    .delete{
+        color: #ffffff;
+    }
+    
+  

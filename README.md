@@ -25,7 +25,7 @@ while
 === checks if both the value and the data type are equal and it does not allow type coercion. This means so the values must be of the same type to be considered equal.
 
 # NO. 4
-An event in javascript is an action that can be detected by the browser which javaScript can respond to because of the code. 
+An event in javascript is an action that can be detected by the browser and also which javaScript can respond to because of the code. 
 
 # NO. 5
 The forEach function takes a callback function and performs it on each element of the array. It does not make
